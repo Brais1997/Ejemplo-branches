@@ -11,7 +11,7 @@ package practicando.branches;
  */
 public class Metodos {
     public void manu(){
-        
+        int n;
     }
     public void brais(){
         
