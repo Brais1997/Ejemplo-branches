@@ -13,4 +13,7 @@ public class Metodos {
     public void manu(){
         
     }
+    public void brais(){
+        
+    }
 }
